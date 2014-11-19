@@ -1,0 +1,5 @@
+1415143681: /home6/prometi8/public_html/signatureutah/MMrequirementProbe-ByNzU3P5I9.php startup
+[04-Nov-2014 16:28:01 America/Denver] PHP Notice:  Undefined index: max in /home6/prometi8/public_html/signatureutah/MMrequirementProbe-ByNzU3P5I9.php on line 391
+1415143726: /home6/prometi8/public_html/signatureutah/ssv3_payload_extractor-4m0SGGZNe2.php startup
+[06-Nov-2014 23:34:18 UTC] PHP Fatal error:  Cannot redeclare class dsSearchAgent_SearchWidget in /home6/prometi8/public_html/signatureutah/wp-content/themes/realty/template-intro.php on line 57
+[06-Nov-2014 23:34:24 UTC] PHP Fatal error:  Cannot redeclare class dsSearchAgent_SearchWidget in /home6/prometi8/public_html/signatureutah/wp-content/themes/realty/template-intro.php on line 57
